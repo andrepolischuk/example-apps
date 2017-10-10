@@ -4,11 +4,12 @@
 
 ## Repositories
 
-* [react, redux](https://github.com/andrepolischuk/react-redux-example)
-* [deku, redux](https://github.com/andrepolischuk/deku-redux-example)
-* [inferno, redux](https://github.com/andrepolischuk/inferno-redux-example)
-* [choo](https://github.com/andrepolischuk/choo-example)
-* [dact, nanomorph](https://github.com/andrepolischuk/dact-example)
+* [React, Redux](https://github.com/andrepolischuk/react-redux-example)
+* [Deku, Redux](https://github.com/andrepolischuk/deku-redux-example)
+* [Inferno, Redux](https://github.com/andrepolischuk/inferno-redux-example)
+* [Choo](https://github.com/andrepolischuk/choo-example)
+* [Dact, nanomorph](https://github.com/andrepolischuk/dact-example)
+* [React, MobX state tree](https://github.com/andrepolischuk/react-mobx-state-tree-example)
 
 ## License
 
